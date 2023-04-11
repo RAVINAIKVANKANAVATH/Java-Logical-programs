@@ -1,8 +1,8 @@
 import java.util.*;
 
 void add(int x[]){
-}
-.out.println("the eliments in the array");
+
+System.out.println("the eliments in the array");
 
 for(i=0;i<n;i++)
 {
@@ -17,9 +17,7 @@ System.out.println(serch+"is found");
   
 a[i] = sc.nextInt();
 }
-
-      
-  }
+}
 class Sermethod {
   public static void main(String args[]) {
 Scanner sc = new Scanner(System.in);
